@@ -52,4 +52,3 @@ public class ApiLogItem extends Model<ApiLogItem> implements Serializable {
         this.oldContent = oldContent;
         this.newContent = newContent;
     }
-}

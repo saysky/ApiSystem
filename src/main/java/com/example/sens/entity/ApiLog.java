@@ -51,4 +51,3 @@ public class ApiLog extends Model<ApiLog> implements Serializable {
      */
     private Date createTime;
 
-}

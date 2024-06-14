@@ -34,4 +34,3 @@ public class UserRoleRef  extends BaseEntity {
 
     public UserRoleRef() {
     }
-}

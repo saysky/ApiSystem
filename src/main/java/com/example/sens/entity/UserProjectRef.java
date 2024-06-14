@@ -44,4 +44,3 @@ public class UserProjectRef extends Model<UserProjectRef> implements Serializabl
      */
     private Date createTime;
 
-}

@@ -69,4 +69,3 @@ public class Project extends Model<Project> implements Serializable {
     @TableField(exist = false)
     private Integer userCount;
 
-}

@@ -55,4 +55,3 @@ public class Group extends Model<Group> implements Serializable {
     @TableField(exist = false)
     private Integer apiCount;
 
-}
