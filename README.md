@@ -2,7 +2,7 @@
 - 预览地址：[http://apisystem.liuyanzhao.com](http://apisystem.liuyanzhao.com) 
 - 详细介绍地址：[https://liuyanzhao.com/shop/apisystem.html](https://liuyanzhao.com/shop/apisystem.html)
 - 代码地址：https://github.com/saysky/apisystem 或 https://gitee.com/saysky/apisystem
-- 完成时间：2022年2月
+
 
 # 一、用户需求
 ## 1、文档录入管理，项目管理，分组管理，接口API管理
